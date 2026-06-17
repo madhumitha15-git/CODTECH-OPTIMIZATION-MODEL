@@ -1,0 +1,5 @@
+Product,Profit_per_unit,Material_required,Labor_hours,Machine_hours,Demand
+Laptop,120,5,3,4,100
+Phone,80,3,2,2,200
+Tablet,100,4,3,3,150
+Watch,50,2,1,1,300
